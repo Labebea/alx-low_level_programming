@@ -8,12 +8,15 @@
 int main(void)
 {
 	int n = 0;
+
 	while (n < 10)
 	{
 		int m = 0;
+
 		while (m < 10)
 		{
 			int l = 0;
+
 			while (l < 10)
 			{
 				if (n < m && m < l)
